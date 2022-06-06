@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1654483070464" clover="3.2.0">
+  <project timestamp="1654483070464" name="All files">
+    <metrics statements="11" coveredstatements="11" conditionals="2" coveredconditionals="2" methods="5" coveredmethods="5" elements="18" coveredelements="18" complexity="0" loc="11" ncloc="11" packages="1" files="2" classes="2"/>
+    <file name="exercise1.js" path="/home/allinny/Documentos/Capacitação/ciandt_it-jest-code-challenge-0f80c1c9ca18/challenge-3/src/exercise1.js">
+      <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="11" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="12" count="2" type="stmt"/>
+      <line num="14" count="2" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+    </file>
+    <file name="exercise2.js" path="/home/allinny/Documentos/Capacitação/ciandt_it-jest-code-challenge-0f80c1c9ca18/challenge-3/src/exercise2.js">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="3" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
