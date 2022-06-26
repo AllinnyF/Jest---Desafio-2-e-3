@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1656263241971" clover="3.2.0">
+  <project timestamp="1656263241971" name="All files">
+    <metrics statements="22" coveredstatements="9" conditionals="2" coveredconditionals="0" methods="11" coveredmethods="6" elements="35" coveredelements="15" complexity="0" loc="22" ncloc="22" packages="1" files="3" classes="3"/>
+    <file name="asyncActions.js" path="/home/allinny/Documentos/Capacitação/ciandt_it-jest-code-challenge-1f407f764d5e/challenge-2/src/asyncActions.js">
+      <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="6" count="3" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="2" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="16" count="2" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+    </file>
+    <file name="asyncMockActions.js" path="/home/allinny/Documentos/Capacitação/ciandt_it-jest-code-challenge-1f407f764d5e/challenge-2/src/asyncMockActions.js">
+      <metrics statements="6" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <line num="1" count="0" type="stmt"/>
+      <line num="3" count="0" type="stmt"/>
+      <line num="6" count="0" type="stmt"/>
+      <line num="7" count="0" type="stmt"/>
+      <line num="8" count="0" type="stmt"/>
+      <line num="12" count="0" type="stmt"/>
+    </file>
+    <file name="timerActions.js" path="/home/allinny/Documentos/Capacitação/ciandt_it-jest-code-challenge-1f407f764d5e/challenge-2/src/timerActions.js">
+      <metrics statements="7" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <line num="1" count="0" type="stmt"/>
+      <line num="3" count="0" type="stmt"/>
+      <line num="4" count="0" type="stmt"/>
+      <line num="5" count="0" type="stmt"/>
+      <line num="6" count="0" type="stmt"/>
+      <line num="7" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="12" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>
